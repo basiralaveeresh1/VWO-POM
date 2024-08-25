@@ -16,7 +16,7 @@
 <img width="944" alt="Screenshot" src=""
 
 ### All the dependencies used
-'''
+''''
 - pip install allure-pytest selenium
 - pip install pytest selenium pytest-html openpyxl 
 - pip install selenium-page-factory 
@@ -24,7 +24,8 @@
 - pip install pytest-xdist 
 - pip install mysql-connector-python
 - pip install pytest-reportportal
-'''
+
+''''
 
 ### Install all in the one Go
 pip install allure-pytest selenium pytest openpyxl faker pytest-xdist pytest-html
